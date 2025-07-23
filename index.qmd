@@ -5,6 +5,7 @@ format:
     smaller: true
     scrollable: true
     slide-level: 2
+    embed-resources: true
 ---
 
 ```{r, include = F}
